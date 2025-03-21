@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Dodana nova linija!");
         System.out.println("Dodana treca linija!");
+        System.out.println("Sada radim promjene na nova_grana3!");
     }
 }
