@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Sada radim promjene na nova_grana3!");
         System.out.println("Sada želim da promjena bude samo na nova_grana3!");
         System.out.println("Želim da ovo bude na masteru.");
+        System.out.println("Želim da ovo bude na grana5.");
     }
 }
